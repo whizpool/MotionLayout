@@ -7,7 +7,6 @@
         motion:constraintSetStart="@+id/start">
         <OnSwipe
             motion:dragDirection="dragLeft"
-            motion:onTouchUp="autoComplete"
             motion:touchRegionId="@id/textView1" />
     </Transition>
 
@@ -31,7 +30,7 @@
             android:layout_width="300dp"
             android:layout_height="300dp"
             android:rotation="-90"
-            motion:layout_editor_absoluteY="-280dp"
+            android:translationX="-280dp"
             motion:layout_constraintBottom_toBottomOf="parent"
             motion:layout_constraintStart_toStartOf="parent"
             motion:layout_constraintTop_toTopOf="parent" />
