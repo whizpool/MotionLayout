@@ -4,16 +4,4 @@
     <string name="textView1Str">
         First:\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed risus ultricies tristique nulla aliquet. Augue ut lectus arcu bibendum. Integer feugiat scelerisque varius morbi enim. Habitant morbi tristique senectus et netus et malesuada fames ac. Eu nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. At lectus urna duis convallis tellus. Enim ut sem viverra aliquet eget sit amet tellus. Cras tincidunt lobortis feugiat vivamus at augue. Id neque aliquam vestibulum morbi. Nullam vehicula ipsum a arcu cursus vitae.
     </string>
-
-    <string name="textView2Str">
-        Second:\nLorem ipsum dolor sit amet consectetur adipiscing elit non donec inceptos curabitur, congue eu et maecenas vivamus cubilia class nec vestibulum platea, ad tortor duis sapien mollis lectus sem luctus phasellus venenatis. Erat vel feugiat placerat tellus cras mauris leo sociis, hendrerit metus facilisi ad iaculis mollis massa cursus, posuere maecenas primis elementum bibendum nisl natoque. Vestibulum cursus cras et pretium quam tortor, blandit diam tempus per sapien a iaculis, euismod id hac cubilia pellentesque.
-    </string>
-
-    <string name="textView3Str">
-        Third:\nLorem ipsum dolor sit amet consectetur adipiscing elit class, curae potenti eros accumsan mauris pharetra mollis, ad habitasse enim ultrices nisl egestas commodo. Porttitor id posuere phasellus fringilla ullamcorper risus sagittis eros ut, molestie fermentum odio parturient vehicula tristique donec tincidunt non elementum, velit pulvinar integer duis aptent nisl arcu metus. Ligula mauris ac mi nostra lobortis curabitur faucibus morbi quis feugiat, nulla elementum aptent torquent ante at luctus neque sapien tincidunt libero, in odio per ornare ultrices condimentum viverra id ut.
-    </string>
-
-    <string name="textView4Str">
-        Final:\nLorem ipsum dolor sit amet consectetur adipiscing elit volutpat fames, tristique torquent risus nunc rhoncus feugiat dictumst metus placerat hendrerit, laoreet cum nam orci augue interdum enim pulvinar. Tempus dictumst tellus non cras semper nulla ac dui, integer odio ante eget condimentum vehicula. Libero curae quam lacus conubia potenti a interdum placerat iaculis porttitor sed facilisis scelerisque, tincidunt cursus pulvinar urna integer laoreet tristique blandit aenean maecenas posuere.
-    </string>
 </resources>
