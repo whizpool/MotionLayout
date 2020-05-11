@@ -111,8 +111,7 @@
             motion:layout_constraintBottom_toBottomOf="parent"
             motion:layout_constraintEnd_toEndOf="parent"
             motion:layout_constraintStart_toStartOf="parent"
-            motion:layout_constraintTop_toTopOf="parent"
-            motion:motionStagger="0.5">
+            motion:layout_constraintTop_toTopOf="parent">
 
             <CustomAttribute
                 motion:attributeName="backgroundColor"
@@ -200,8 +199,7 @@
             motion:layout_constraintBottom_toBottomOf="parent"
             motion:layout_constraintEnd_toEndOf="parent"
             motion:layout_constraintStart_toStartOf="parent"
-            motion:layout_constraintTop_toTopOf="parent"
-            motion:motionStagger="0.5">
+            motion:layout_constraintTop_toTopOf="parent">
 
             <CustomAttribute
                 motion:attributeName="backgroundColor"
@@ -268,8 +266,7 @@
             android:translationX="-280dp"
             motion:layout_constraintBottom_toBottomOf="parent"
             motion:layout_constraintStart_toStartOf="parent"
-            motion:layout_constraintTop_toTopOf="parent"
-            motion:motionStagger="0.5">
+            motion:layout_constraintTop_toTopOf="parent">
 
             <CustomAttribute
                 motion:attributeName="backgroundColor"
